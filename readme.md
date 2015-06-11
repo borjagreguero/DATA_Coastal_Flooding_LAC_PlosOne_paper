@@ -28,7 +28,7 @@ The input and output data used in the paper is provided in this repository in sp
     - Include the sea levels used in the analysis, provided by 50 km units and with country code. 
     - Data corresponds to: longitude (`LON`), Latitude (`LAT`), extreme total water levels (`Tr2010` and `Tr2050`), relative sea level rise projections by mid-century (`rSLR2050`) and end of the century (`rSLR2090a` - RCP4.5  and `rSLR2090b` - RCP8.5)
   
-  * *`population.ods`*: 
+  * *`population.ods`*
     - Data of population by elevation, provided by 50 km units and with country code.
     - Population data corresponds to the reference timeline (2011) and the projections by mid-century and end of the century 
     
